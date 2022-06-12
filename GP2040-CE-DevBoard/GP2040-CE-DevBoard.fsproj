@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***************************************-->
+<!--   File    : GP2040-CE-DevBoard.fsproj -->
+<!--   Format  : TopoR Project file        -->
+<!--   Version : 2                         -->
+<!--   Program : TopoR Lite 7.0.18508      -->
+<!--   Date    : Monday, June 06, 2022     -->
+<!--   Time    : 02:18                     -->
+<!--***************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{6C62640E-7E69-4508-A497-2ACAFD205F65}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="false">
+         <File path=".\GP2040-CE-DevBoard.fsx" isopened="1" dateChange="2022-06-06 02:17:27"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="false">
+         <File path=".\autoroute_220606021758\GP2040-CE-DevBoard_4636-30s.fsb" isopened="0" dateChange="2022-06-06 02:18:16"/>
+      </Section>
+   </Documents>
+</Project>
