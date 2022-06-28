@@ -5,4 +5,6 @@
   (lib (name "ul_ADS1219IPWR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Analog to Digital Converter/ul_ADS1219IPWR/ul_ADS1219IPWR.pretty")(options "")(descr ""))
   (lib (name "THB001P")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Thumbstick/THB001P.pretty")(options "")(descr ""))
   (lib (name "FlexyPin")(type "KiCad")(uri "C:/ws/flexypin/FlexyPin.pretty")(options "")(descr ""))
+  (lib (name "OpenStick")(type "KiCad")(uri "C:/ws/KiCadFootprints/OpenStick.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/ws/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )
